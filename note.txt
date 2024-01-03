@@ -1,0 +1,16 @@
+font family -----------
+             font-family: 'Lato', sans-serif;
+             font-family: 'Roboto', sans-serif;
+
+color----------
+
+ash    #8e8e8e
+black  #333333
+
+banner --------
+      xxl-xl- lg             md              sm-col
+h1       60    49             49              35   
+
+
+welcome----------
+pb      100                   80              60                    
